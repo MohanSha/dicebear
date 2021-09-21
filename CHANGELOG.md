@@ -1,5 +1,5 @@
 # Changelog
-Commit
+
 ## [4.7.3] - 2021-08-25
 
 ### Added
